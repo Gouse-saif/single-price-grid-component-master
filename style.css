@@ -1,4 +1,4 @@
-/* ======= TYPOGRAPHY ======= */
+																																																																																																																																																																																																																																																																																																																							/* ======= TYPOGRAPHY ======= */
 @import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;700&display=swap');
 
 /* ======= COLORS ======= */
@@ -127,6 +127,9 @@ span{
 
 @media(max-width:780px){
 
+  .container div:nth-child(2){
+    border-radius: 0 0 0 0;
+  }
   .container div:nth-child(3){
     border-radius: 0 0 5px 5px;
   }
@@ -180,35 +183,4 @@ span{
   }
 
 }
-
-/* @media(max-width:550px){
-
-  .cardContainer{
-    max-width: 400px;
-  }
-  .priceListPara1{
-    padding-right: 5rem;
-  }
-
-  .btn{
-    margin-top: 4rem;
-  }
-
-  .priceListPara3{
-    width: 300px;
-  }
-} */
-
-/* @media(max-width:450px){
-  .cardContainer{
-    max-width: 300px;
-    margin-left: -4rem;
-  }
-} */
-
-/* @media(max-width:375px){
-
-  .cardContainer{
-    margin-left: -19.50rem;
-  }
-} */
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																												
